@@ -9,7 +9,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-            clsCar ACar = new clseCar();
+            clsCar ACar = new clsCar();
             Boolean TestData = true;
 
             ACar.Active = TestData;
