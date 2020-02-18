@@ -1,6 +1,6 @@
-﻿namespace CarsClasses
+﻿namespace UnitTestProject1
 {
-    internal class clsCar
+    public class clsCar
     {
         public bool Active { get; internal set; }
     }
