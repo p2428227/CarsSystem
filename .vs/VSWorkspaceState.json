@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\entire project",
+    "\\entire project\\Cars Skeleton",
+    "\\entire project\\CarsBackOffice"
   ],
+  "SelectedNode": "\\entire project\\Cars Skeleton\\CarsSystem.sln",
   "PreviewInSolutionExplorer": false
 }
