@@ -112,7 +112,7 @@ namespace UnitTestProject1
             //create an instance of the class we want to create
             clsCar ACar = new clsCar();
             //create some test data to assign to the property
-            float TestData = 37.5;
+            double TestData = 37.5;
             //assign the data to the property
             ACar.MPG = TestData;
             //test to see that the two values are the same
@@ -145,4 +145,4 @@ namespace UnitTestProject1
 
     }
 }
-}
+

@@ -4,3 +4,9 @@ C:\Users\p2432102\Source\Repos\CarsSystem\entire project\Cars Skeleton\CarsClass
 C:\Users\p2432102\Source\Repos\CarsSystem\entire project\Cars Skeleton\CarsClasses\obj\Debug\CarsClasses.csproj.CoreCompileInputs.cache
 C:\Users\p2432102\Source\Repos\CarsSystem\entire project\Cars Skeleton\CarsClasses\obj\Debug\CarsClasses.dll
 C:\Users\p2432102\Source\Repos\CarsSystem\entire project\Cars Skeleton\CarsClasses\obj\Debug\CarsClasses.pdb
+C:\Users\p2432102\Source\Repos\CarsSystem3\entire project\Cars Skeleton\CarsClasses\bin\Debug\CarsClasses.dll
+C:\Users\p2432102\Source\Repos\CarsSystem3\entire project\Cars Skeleton\CarsClasses\bin\Debug\CarsClasses.pdb
+C:\Users\p2432102\Source\Repos\CarsSystem3\entire project\Cars Skeleton\CarsClasses\obj\Debug\CarsClasses.csprojAssemblyReference.cache
+C:\Users\p2432102\Source\Repos\CarsSystem3\entire project\Cars Skeleton\CarsClasses\obj\Debug\CarsClasses.csproj.CoreCompileInputs.cache
+C:\Users\p2432102\Source\Repos\CarsSystem3\entire project\Cars Skeleton\CarsClasses\obj\Debug\CarsClasses.dll
+C:\Users\p2432102\Source\Repos\CarsSystem3\entire project\Cars Skeleton\CarsClasses\obj\Debug\CarsClasses.pdb
