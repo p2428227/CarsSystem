@@ -7,3 +7,12 @@ C:\Users\p2432102\Source\Repos\CarsSystem\entire project\CarsBackOffice\obj\Debu
 C:\Users\p2432102\Source\Repos\CarsSystem\entire project\CarsBackOffice\obj\Debug\CarsBackOffice.csproj.CoreCompileInputs.cache
 C:\Users\p2432102\Source\Repos\CarsSystem\entire project\CarsBackOffice\obj\Debug\CarsBackOffice.exe
 C:\Users\p2432102\Source\Repos\CarsSystem\entire project\CarsBackOffice\obj\Debug\CarsBackOffice.pdb
+C:\Users\p2440738\Source\Repos\CarsSystem5\entire project\CarsBackOffice\bin\Debug\CarsBackOffice.exe.config
+C:\Users\p2440738\Source\Repos\CarsSystem5\entire project\CarsBackOffice\bin\Debug\CarsBackOffice.exe
+C:\Users\p2440738\Source\Repos\CarsSystem5\entire project\CarsBackOffice\bin\Debug\CarsBackOffice.pdb
+C:\Users\p2440738\Source\Repos\CarsSystem5\entire project\CarsBackOffice\obj\Debug\CarsBackOffice.csprojAssemblyReference.cache
+C:\Users\p2440738\Source\Repos\CarsSystem5\entire project\CarsBackOffice\obj\Debug\CarsBackOffice.Properties.Resources.resources
+C:\Users\p2440738\Source\Repos\CarsSystem5\entire project\CarsBackOffice\obj\Debug\CarsBackOffice.csproj.GenerateResource.cache
+C:\Users\p2440738\Source\Repos\CarsSystem5\entire project\CarsBackOffice\obj\Debug\CarsBackOffice.csproj.CoreCompileInputs.cache
+C:\Users\p2440738\Source\Repos\CarsSystem5\entire project\CarsBackOffice\obj\Debug\CarsBackOffice.exe
+C:\Users\p2440738\Source\Repos\CarsSystem5\entire project\CarsBackOffice\obj\Debug\CarsBackOffice.pdb
