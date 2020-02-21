@@ -49,7 +49,7 @@ namespace UnitTestProject1
             //create an instance of the class we want to create
             clsCar ACar = new clsCar();
             //create some test data to assign to the property
-            int TestData = 1;
+            int TestData = 12345;
             //assign the data to the property
             ACar.VIN = TestData;
             //test to see that the two values are the same
@@ -62,7 +62,7 @@ namespace UnitTestProject1
             //create an instance of the class we want to create
             clsCar ACar = new clsCar();
             //create some test data to assign to the property
-            Int32 TestData = 1;
+            Int32 TestData = 10000;
             //assign the data to the property
             ACar.Price = TestData;
             //test to see that the two values are the same
@@ -112,7 +112,7 @@ namespace UnitTestProject1
             //create an instance of the class we want to create
             clsCar ACar = new clsCar();
             //create some test data to assign to the property
-            float TestData = 37.5;
+            float TestData = 37.5f;
             //assign the data to the property
             ACar.MPG = TestData;
             //test to see that the two values are the same
@@ -145,4 +145,4 @@ namespace UnitTestProject1
 
     }
 }
-}
+
