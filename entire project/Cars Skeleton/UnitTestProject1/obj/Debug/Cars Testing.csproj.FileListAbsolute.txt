@@ -44,3 +44,5 @@ C:\Users\p2440947\Source\Repos\CarsSystem8\entire project\Cars Skeleton\UnitTest
 C:\Users\p2440947\Source\Repos\CarsSystem8\entire project\Cars Skeleton\UnitTestProject1\obj\Debug\Cars Testing.csproj.CopyComplete
 C:\Users\p2440947\Source\Repos\CarsSystem8\entire project\Cars Skeleton\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\Users\p2440947\Source\Repos\CarsSystem8\entire project\Cars Skeleton\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\p2432102\Source\Repos\CarsSystem\entire project\Cars Skeleton\UnitTestProject1\bin\Debug\CarsClasses.dll
+C:\Users\p2432102\Source\Repos\CarsSystem\entire project\Cars Skeleton\UnitTestProject1\bin\Debug\CarsClasses.pdb
