@@ -143,6 +143,37 @@ namespace UnitTestProject1
             Assert.AreEqual(ACar.TopSpeed, TestData);
         }
 
+        public void FindMethodOK()
+        {
+            //Creates an instance of Car
+            clsCar ACar = new clsCar();
+            //Boolean variable to hold the result of validation
+            Boolean Found = false;
+            //Create some test data
+            Int32 VIN = 1;
+            //Invoke the find method
+            Found = ACar.Find(VIN);
+            //Test to see if the result is correct
+            Assert.IsTrue(Found);
+        }
+
+        public void TestCarNoFound()
+        {
+            clsCar ACar = new clsCar();
+            Boolean Found = false;
+            Boolean OK = true;
+            Int32 VINNumber = 1;
+            Found = ACar.Find(VINNumber);
+            if (ACar.VIN != 1)
+            {
+                OK = false;
+            }
+            Assert.IsTrue(OK);
+
+
+
+        }
+
     }
 }
 

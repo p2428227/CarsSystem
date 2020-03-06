@@ -14,5 +14,10 @@ namespace CarsClasses
         public double MPG { get; set; }
         public int Age { get; set; }
         public int TopSpeed { get; set; }
+
+        public bool Find(int vINNumber)
+        {
+            return true;
+        }
     }
 }
