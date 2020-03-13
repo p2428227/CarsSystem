@@ -131,7 +131,31 @@ namespace UnitTestProject1
             //test if they match
             Assert.AreEqual(AnOrder.Price, TestData);
         }
-
+        [TestMethod]
+        public void FindMethodOK()
+        {
+            clsOrder AnOrder = new clsOrder();
+            Boolean Found = false;
+            Int32 OrderId = 1;
+            Found = AnOrder.Find(OrderNo);
+            Assert.IsTrue(Found);
+        }
+        [TestMethod]
+        public void TestOrderIdFound()
+        {
+            clsOrder AnOrder = new clsOrder();
+            Boolean Found = false;
+            Boolean OK = true;
+            Int32 OrderId = 1;
+            Found = AnOrder.Find(OrderId);
+            if(AnOrder.OrderId != 1)
+            {
+}               OK = false;
+            }
+            Assert.IsTrue(OK);
+            //??? Need to do more tests here from week 21 file
+        }
+        
     }
 }
 
